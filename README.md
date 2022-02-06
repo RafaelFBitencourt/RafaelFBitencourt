@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael  Bitencourt
 Bem vindo ao meu Perfil GitHub!  😄😄
 
-Atualmente estou trabalhando como supervisor de suporte, mas estou em busca de conhecimento e me realocação no mercado de trabalho como desenvolvedor.
+Atualmente estou trabalhando como supervisor de suporte, mas estou em busca de conhecimento e me realocar no mercado de trabalho como desenvolvedor.
 Atualmente meus estudos estão focados em criar um base com HMTL e CSS, tambem ja aprendi um pouco de Python. 
 
 <div>
